@@ -127,8 +127,8 @@ The `initConfig` section of `config.json`must be filled out manually (see more d
     "tenantId": "123e4567-e89b-12d3-a456-426652340000",
     "location": "enter a valid Azure location name, for instance 'westeurope'",
     "naming": {
-      "solutionPrefix": "asdk",  // 'asdk' is the default prefix used
-      "solutionName": "test" // leave as 'test' or change to some other name
+      "solutionPrefix": "vki",  // 'asdk' is the default prefix used
+      "solutionName": "saas" // leave as 'test' or change to some other name
     },
     "azureb2c": {
       "location": "Europe", // enter a valid Azure B2C region here. This is not the same as 'location' above.
